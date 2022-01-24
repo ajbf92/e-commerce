@@ -18,7 +18,7 @@ Category.init(
       // turn on auto increment
       autoIncrement: true,
     },
-    // define a username column
+    // define a category column
     category_name: {
       type: DataTypes.STRING,
       allowNull: false,
