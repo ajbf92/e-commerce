@@ -22,7 +22,7 @@ Product.init(
       // turn on auto increment
       autoIncrement: true,
     },
-    // define a username column
+    // define a product column
     product_name: {
       type: DataTypes.STRING,
       allowNull: false,
